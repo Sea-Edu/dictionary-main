@@ -190,3 +190,7 @@ audio {
 .play-container i{
     color: white;
 }
+select{
+    appearance: none;
+    padding: 0 1rem;
+}
